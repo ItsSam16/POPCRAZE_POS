@@ -1,0 +1,10 @@
+{
+  "name":"POP CRAZE POS",
+  "short_name":"POP CRAZE",
+  "description":"Point of sale and stock management for POP CRAZE",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f6f3fc",
+  "theme_color":"#25114d",
+  "icons":[]
+}
